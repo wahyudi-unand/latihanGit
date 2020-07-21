@@ -9,7 +9,7 @@
 
 <body>
     <h1>Folder latihan Git</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae nulla, expedita nemo soluta ad consectetur, officiis, corrupti repellendus eveniet dolorem aperiam a nostrum animi unde totam vero earum distinctio incidunt?</p>
+    <p>alhamdulillah tutorial github dan git berhasil dibuat</p>
 </body>
 
 </html>
